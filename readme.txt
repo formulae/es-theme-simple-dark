@@ -1,3 +1,7 @@
+Theme 'formulae' v0.1 - 23-04-2016
+by Gary Whittle - gary@form.ul.ae
+
+Based on:
 Theme 'simple-dark' v0.9 - 02-16-2015
 by Vincent Macaluso - nolageek@gmail.com
 
@@ -6,6 +10,10 @@ Theme 'simple' v1.3 - 11-29-2014
 (c) Nils Bonenberger - nilsbyte@nilsbyte.de - http://blog.nilsbyte.de/
 For use with EmulationStation (http://www.emulationstation.org/)
 
+Changelog (formulae)
+=======================
+23-04-2016
+Initial version
 
 Changelog (Simple-Dark)
 =======================
